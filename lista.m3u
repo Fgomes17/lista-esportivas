@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTIF:-1 tvg-id="ESPNBrasil"
+group-title="Esporte", ESPN Brasil
+http://www.espn.com.br
+#EXTM3U
+#EXTIF:-1 tvg-id="SportTV1"
+group-title="Esporte", Sport TV 1
+http://sporttv.globo.com
